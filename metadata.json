@@ -1,0 +1,5 @@
+{
+  "name": "AI Guardian: Anomaly Detection",
+  "description": "Intelligent anomaly detection and failure prediction system for superconducting magnet circuits using time-series sensor data.",
+  "requestFramePermissions": []
+}
